@@ -1,0 +1,62 @@
+[
+  {
+    "file": "css/app.f5dbed81cf6b03be9307c38891680978.css",
+    "hash": "0bc242b2192f8c3676b9a95a82ece93e"
+  },
+  {
+    "file": "css/app.f5dbed81cf6b03be9307c38891680978.css.map",
+    "hash": "065bdb760fb192ac49b2c27a37994530"
+  },
+  {
+    "file": "index.html",
+    "hash": "426973a0d5b13c5d6e7e2c61bd29dcdf"
+  },
+  {
+    "file": "js/0.f864c01ce49e4cabaa37.js",
+    "hash": "fdd05b82b62052286528799232d072ef"
+  },
+  {
+    "file": "js/0.f864c01ce49e4cabaa37.js.map",
+    "hash": "fd33af3a97a57105b7a3100c80cb8127"
+  },
+  {
+    "file": "js/1.a116115699afab7da8e2.js",
+    "hash": "7c0ab5ef290cc9517ae147c52ef24148"
+  },
+  {
+    "file": "js/1.a116115699afab7da8e2.js.map",
+    "hash": "0956559bc84763a1e463b64c4715c631"
+  },
+  {
+    "file": "js/2.707d550c5989210bf766.js",
+    "hash": "090045ab26ec561ef11523d0759dc2a6"
+  },
+  {
+    "file": "js/2.707d550c5989210bf766.js.map",
+    "hash": "949766bf7b4b4f287f07eb4fa97c1b8a"
+  },
+  {
+    "file": "js/app.ea15845c3772d00a51c1.js",
+    "hash": "8c18633fea0a542f4c0d017f0c5699e6"
+  },
+  {
+    "file": "js/app.ea15845c3772d00a51c1.js.map",
+    "hash": "49433e4460409637a8d88d505e205f7a"
+  },
+  {
+    "file": "js/manifest.eafdc75f3f069ff15042.js",
+    "hash": "84f4401ee3a5daff3f58806a66c70ae6"
+  },
+  {
+    "file": "js/manifest.eafdc75f3f069ff15042.js.map",
+    "hash": "870bab182144aa2dcf21157ecffbf0b0"
+  },
+  {
+    "file": "js/vendor.eb93e013363daf09cf6b.js",
+    "hash": "c993428996d3276b86b0e1036b047533"
+  },
+  {
+    "file": "js/vendor.eb93e013363daf09cf6b.js.map",
+    "hash": "17ba25947cf8c42edbeea2583bb00925"
+  }
+]
